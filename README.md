@@ -1,7 +1,4 @@
- Learn Code <img src="https://user-images.githubusercontent.com/78619091/232625578-7c7c98ec-b972-43c2-a6ee-78e36a877395.png" width="50" height="50" /> 
-7 months ago
-
-Update README.md
+“Learning to code is useful no matter what your career ambitions "
 ![](https://komarev.com/ghpvc/?username=your-github-MohamedAaamin&color=blueviolet&style=flat-square)
 
 
